@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3B86FF&height=300&section=header&text=welcome&desc=5tr1ker%20Github%20Profile&fontSize=80&fontColor=ffffff&fontAlign=70&fontAlignY=40&descSize=25&descAlign=75&descAlignY=55&stroke=E1FAFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3B86FF&height=300&section=header&text=welcome&desc=5tr1ker%20Github%20Profile&fontSize=80&fontColor=ffffff&fontAlignY=40&descSize=25&descAlignY=55&stroke=E1FAFF)
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5tr1ker)](https://github.com/5tr1ker/github-readme-stats)
