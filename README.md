@@ -1,13 +1,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B86FF&height=300&section=header&text=welcome&desc=5tr1ker%20Github%20Profile&fontSize=80&fontColor=ffffff&fontAlignY=40&descSize=25&descAlignY=55&stroke=E1FAFF">
 <hr/>
+  <h2># Stats 🔍</h2>
+<div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5tr1ker)](https://github.com/5tr1ker/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5tr1ker&layout=compact)](https://github.com/5tr1ker/github-readme-stats)
+|                                                       Solved.ac                                                        |                                                             Languages                                                              |
+| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
+| [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjseocld)](https://solved.ac/profile/tjseocld) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5tr1ker&layout=compact&theme=prussian&langs_count=8) |
 
-  </div>
-  <div align="left">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjseocld)](https://solved.ac/tjseocld/)
+| [![5tr1ker's github stats](https://github-readme-stats.vercel.app/api?username=5tr1ker&show_icons=true&theme=prussian)](https://github.com/5tr1ker/github-readme-stats) |
+| :-----------------------------------------------------------------------------------------------------------------------: |
+
+  <div align="center">
   <h2>💻 Tech Stack 💻</h2>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
