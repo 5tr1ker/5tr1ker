@@ -44,6 +44,6 @@
   <img src="https://user-images.githubusercontent.com/49367338/206065122-d03c2ef9-b8f6-49cc-83bc-271437aa6443.png" width="75%">
 
   <h2>프로젝트 - 프론트엔드 (React)</h2>
-  - API 호출을 위한 데이터 타입을 적절하게 처리 
+  - API 호출을 위한 데이터의 Header 와 Body를 적절하게 지정하여 요청
   <img src="https://user-images.githubusercontent.com/49367338/206065903-51dc012a-d879-4c91-a9a3-d541389513b2.png" width="75%">
 </div>
