@@ -38,6 +38,9 @@
 <a href="https://velog.io/@tjseocld"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@tjseocld"/></a>
 <a href="mailto:tjseocld@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:tjseocld@gmail.com"/></a>
 
+<br />
+<h2>📖 Project 📖</h2>
+    
 |                                                       개인 프로젝트 - myStory                                                        |                                                              팀 프로젝트 - today Check                                                              |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://user-images.githubusercontent.com/49367338/206065122-d03c2ef9-b8f6-49cc-83bc-271437aa6443.png" width="75%"> | <img src="https://user-images.githubusercontent.com/49367338/214649874-75fb23ac-644a-4a9a-b17d-373c6e9945a5.png" width="75%"> |
