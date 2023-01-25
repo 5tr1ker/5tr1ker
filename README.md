@@ -41,7 +41,7 @@
 <br />
 <h2>📖 Project 📖</h2>
     
-|                                                       개인 프로젝트 - myStory                                                        |                                                              팀 프로젝트 - today Check                                                              |
+|                                                       [개인 프로젝트 - myStory](https://github.com/5tr1ker/myStory)                                                       |                                                              [팀 프로젝트 - today Check](https://github.com/5tr1ker/today-check)                                                              |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://user-images.githubusercontent.com/49367338/206065122-d03c2ef9-b8f6-49cc-83bc-271437aa6443.png" width="75%"> | <img src="https://user-images.githubusercontent.com/49367338/214649874-75fb23ac-644a-4a9a-b17d-373c6e9945a5.png" width="75%"> |
 | 파일 업로드 및 다운로드 , 해시태그와 , <br/> OAuth2.0 ( JWT ) , 알림 설정이 구현된 게시판 | 복잡한 구조의 DB , 많은 이미지 데이터를 효율적으로 구현한 게시판 |
