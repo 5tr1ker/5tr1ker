@@ -38,12 +38,11 @@
 <a href="https://velog.io/@tjseocld"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@tjseocld"/></a>
 <a href="mailto:tjseocld@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:tjseocld@gmail.com"/></a>
 
-  <h2>프로젝트 - 백엔드 (Spring + RestAPI + JPA + Mysql을 이용한 개발) </h2>
-  - 이미지 출력 , 파일 업로드 및 다운로드 , API 요청에 맞는 개발 가능
-  - 예상치 못한 예외나 보안 ( 인가 , 인증 ) 에 따른 적절한 처리
+  <h2>개인 프로젝트 - myStory ( Spring + RestAPI + JPA + Mysql을 이용한 개발 ) </h2>
+  - 파일 업로드 및 다운로드 , 해시태그와 , OAuth2.0 ( JWT ) , 알림 설정이 구현된 게시판
   <img src="https://user-images.githubusercontent.com/49367338/206065122-d03c2ef9-b8f6-49cc-83bc-271437aa6443.png" width="75%">
 
-  <h2>프로젝트 - 프론트엔드 (React)</h2>
-  - API 호출을 위한 데이터의 Header 와 Body를 적절하게 지정하여 요청
-  <img src="https://user-images.githubusercontent.com/49367338/206065903-51dc012a-d879-4c91-a9a3-d541389513b2.png" width="75%">
+  <h2>팀 프로젝트 - today Check ( Spring Boot + React ( SPA ) ) </h2>
+  - 복잡한 구조의 DB , 많은 이미지 데이터를 효율적으로 구현한 게시판
+  <img src="https://user-images.githubusercontent.com/49367338/214649874-75fb23ac-644a-4a9a-b17d-373c6e9945a5.png" width="75%">
 </div>
