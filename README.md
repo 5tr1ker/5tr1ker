@@ -13,7 +13,7 @@
 
   <div align="center">
   <h2>💻 Tech Stack 💻</h2>
-    <h4>▶ Platforms & Languages ◀<h4/>
+    <h3>▶ Platforms & Languages ◀<h3/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -25,30 +25,30 @@
     <img src="https://img.shields.io/badge/JPA Hibernate & QueryDSL-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
-    <h4>▶ DevOps ◀<h4/>
+    <h3>▶ DevOps ◀<h3/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"><br/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-    <h4>▶ Cloud & Infrastructure ◀<h4/>
+    <h3>▶ Cloud & Infra ◀<h3/>
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon ELB-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 
   <h2>🛠 Tool 🛠</h2>
-  <h4>▶ Software Configuration Management ◀</h4>
+  <h3>▶ Software Configuration Management ◀</h3>
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white">
-  <h4>▶ Idea ◀</h4>
+  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=SourceTree&logoColor=white">
+  <h3>▶ Idea ◀</h3>
   <img src="https://img.shields.io/badge/IntelliJ Idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"><br/>
-  <h4>▶ API Documentation Tools ◀</h4>
+  <h3>▶ API Documentation & Development Tools ◀</h3>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
   <img src="https://img.shields.io/badge/Rest Docs-8CA1AF?style=for-the-badge&logo=readthedocs&logoColor=white">
-  <h4>▶ Idea ◀</h4>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=SourceTree&logoColor=white">
+  <h3>▶ Collaboration ◀</h3>
   <img src="https://img.shields.io/badge/Jira & Confluence-0052CC?style=for-the-badge&logo=Jira Software&logoColor=white">
   
 <h2>📫 About Me 📫</h2>
