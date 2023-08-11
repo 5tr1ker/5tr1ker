@@ -62,4 +62,8 @@
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://user-images.githubusercontent.com/49367338/206065122-d03c2ef9-b8f6-49cc-83bc-271437aa6443.png" width="75%"> | <img src="https://user-images.githubusercontent.com/49367338/214649874-75fb23ac-644a-4a9a-b17d-373c6e9945a5.png" width="75%"> |
 | 파일 업로드 및 다운로드 , 해시태그와 , <br/> OAuth2.0 ( JWT ) , 알림 설정이 구현된 게시판 | 각 미션 별 참여자간 수행한 미션을 공유하는 어플리케이션 |
-    
+| [팀 프로젝트 - comma](https://github.com/5tr1ker/Comma-Back-end) | [팀 프로젝트 - JJan](https://github.com/5tr1ker/jjan_back_renewal) |
+| <img src="https://github.com/5tr1ker/5tr1ker/assets/49367338/66009156-8935-4a61-8c9c-e41c6c41c627" width="25%"> <img src="https://github.com/5tr1ker/5tr1ker/assets/49367338/782dfe01-eec9-40a4-b2af-cb1c29f9b52d" width="25%" marginLeft="50px"> | <img src="https://github.com/5tr1ker/5tr1ker/assets/49367338/ea80bc1b-6351-4199-8736-529575d8e878" width="25%"> |
+| 다른 사람과 음악을 공유하고 감정을 기록하는 웹 서비스 | 친목을 위해 모임을 개설하고 만남을 갖는 웹 서비스 |
+
+
