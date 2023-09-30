@@ -56,7 +56,7 @@
 <a href="mailto:tjseocld@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:tjseocld@gmail.com"/></a>
 
 <br />
-<h2>📖 Project 📖</h2>
+<h2>📖 Projects 📖</h2>
     
 |                                                       [개인 프로젝트 - myStory](https://github.com/5tr1ker/myStory)                                                       |                                                              [팀 프로젝트 - today Check](https://github.com/5tr1ker/today-check)                                                              |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
