@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon ELB-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 
-  <h2>🛠 Tool 🛠</h2>
+  <h2>🛠 Tools 🛠</h2>
   <h3>▶ Software Configuration Management ◀</h3>
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white">
@@ -56,7 +56,7 @@
 <a href="mailto:tjseocld@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:tjseocld@gmail.com"/></a>
 
 <br />
-<h2>📖 Project 📖</h2>
+<h2>📖 Projects 📖</h2>
     
 |                                                       [개인 프로젝트 - myStory](https://github.com/5tr1ker/myStory)                                                       |                                                              [팀 프로젝트 - today Check](https://github.com/5tr1ker/today-check)                                                              |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
