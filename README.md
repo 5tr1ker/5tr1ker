@@ -55,7 +55,7 @@
 <a href="https://velog.io/@tjseocld"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@tjseocld"/></a>
 <a href="mailto:tjseocld@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:tjseocld@gmail.com"/></a>
 
-<h2>✏ portfolio ✏</h2>
+<h2>✏ Portfolio ✏</h2>
 <a href="https://www.notion.so/5tr1ker-1e52a07c398b41b1bb6de6f47815f4a3?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
 
