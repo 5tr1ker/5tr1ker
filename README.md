@@ -68,7 +68,7 @@
 | [팀 프로젝트 - comma](https://github.com/5tr1ker/Comma-Back-end) | [팀 프로젝트 - JJan](https://github.com/5tr1ker/jjan_back_renewal) |
 | <img src="https://github.com/5tr1ker/5tr1ker/assets/49367338/66009156-8935-4a61-8c9c-e41c6c41c627" width="25%"> <img src="https://github.com/5tr1ker/5tr1ker/assets/49367338/782dfe01-eec9-40a4-b2af-cb1c29f9b52d" width="25%" marginLeft="50px"> | <img src="https://github.com/5tr1ker/5tr1ker/assets/49367338/ea80bc1b-6351-4199-8736-529575d8e878" width="25%"> |
 | 다른 사람과 음악을 공유하고 감정을 기록하는 웹 서비스 | 친목을 위해 모임을 개설하고 만남을 갖는 웹 서비스 |
-| [팀 프로젝트 - 4983](https://github.com/5tr1ker/4983-server) | - |
-| <img src="https://github.com/5tr1ker/5tr1ker/assets/49367338/cb74e77c-bdef-4662-b2d5-ff3518b5ebdf" width="50%" /> | - |
-| 비대면 중고 서적 거래 서비스 | - |
+| [팀 프로젝트 - 4983](https://github.com/5tr1ker/4983-server) |  |
+| <img src="https://github.com/5tr1ker/5tr1ker/assets/49367338/cb74e77c-bdef-4662-b2d5-ff3518b5ebdf" width="50%" /> |  |
+| 비대면 중고 서적 거래 서비스 |  |
 
