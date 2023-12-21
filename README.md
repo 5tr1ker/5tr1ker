@@ -1,11 +1,5 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B86FF&height=220&section=header&text=welcome&desc=5tr1ker%20Github%20Profile&fontSize=60&fontColor=ffffff&fontAlignY=30&descSize=20&descAlignY=50&stroke=E1FAFF">
+# 5tr1ker&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/sans.gif" width="30" height="30%"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5tr1ker&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://velog.io/@tjseocld"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@tjseocld"/></a>
-<a href="mailto:tjseocld@gmail.com"><img src="https://img.shields.io/badge/tjseocld@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:tjseocld@gmail.com"/></a>
-  
-
-<div align="center">
 
 |                                                       Solved.ac                                                        |                                                             Stat                                                              |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
@@ -25,6 +19,9 @@
 
 <br/>
 
+  <!--<div align=center>-->
+  
+<a href="https://velog.io/@tjseocld"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@tjseocld"/></a>
+<a href="mailto:tjseocld@gmail.com"><img src="https://img.shields.io/badge/tjseocld@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:tjseocld@gmail.com"/></a>
 
 
-</div>
