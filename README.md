@@ -13,8 +13,8 @@
 
 
 
-<h4>💪 Skills</h4>
-<h5>Platforms & Languages</h5>
+<h2>💪 Skills</h2>
+<h3>Platforms & Languages</h3>
 <div align="left">
 <img src="https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Framework-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
 
-<h5>Tools</h5>
+<h3>Tools</h3>
 <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=SourceTree&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
 
