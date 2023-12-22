@@ -2,6 +2,7 @@
 
 <a href="https://velog.io/@tjseocld"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@tjseocld"/></a>
 <a href="mailto:tjseocld@gmail.com"><img src="https://img.shields.io/badge/tjseocld@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:tjseocld@gmail.com"/></a>
+<a href="https://5tr1ker.notion.site/7c3a4a7903a941ec86ed3259fe9b7748?pvs=4"><img src="https://img.shields.io/badge/portfolio-000000?style=flat&logo=Notion&logoColor=white&link=mailto:tjseocld@gmail.com"/></a>
 
 안녕하세요! 저는 백엔드 개발자입니다. 🚀 <br>
 저는 Spring Boot를 활용하여 비전공자가 볼 수 있을 정도로 깨끗한 코드를 뽑아냅니다. 👨‍💻 <br>
