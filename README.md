@@ -4,7 +4,7 @@
 <a href="mailto:tjseocld@gmail.com"><img src="https://img.shields.io/badge/tjseocld@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:tjseocld@gmail.com"/></a>
 <a href="https://5tr1ker.notion.site/7c3a4a7903a941ec86ed3259fe9b7748?pvs=4"><img src="https://img.shields.io/badge/portfolio-000000?style=flat&logo=Notion&logoColor=white&link=mailto:tjseocld@gmail.com"/></a>
 
-안녕하세요! 저는 백엔드 개발자입니다. 🚀 <br>
+안녕하세요! 저는 백엔드 개발자입니다 ;) 🚀 <br>
 저는 Spring Boot를 활용하여 비전공자가 볼 수 있을 정도로 깨끗한 코드를 뽑아냅니다. 👨‍💻 <br>
 나무가 아닌 숲을 보며 끊임 없는 학습을 하고 있습니다. 🌲 <br>
 
@@ -27,4 +27,4 @@
 
 <h3>Tools</h3>
 <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=SourceTree&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white
