@@ -13,8 +13,6 @@
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
 | [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjseocld)](https://solved.ac/profile/tjseocld) | [![5tr1ker's github stats](https://github-readme-stats.vercel.app/api?username=5tr1ker&show_icons=true&theme=prussian)](https://github.com/5tr1ker/github-readme-stats) |
 
-
-
 <h2>💪 Skills</h2>
 <h3>Platforms & Languages</h3>
 <div align="left">
